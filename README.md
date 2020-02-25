@@ -11,9 +11,9 @@ x-generator.pkg.module=system
 
 ## 数据源配置  
 x-generator.ds.driver=com.mysql.jdbc.Driver  
-x-generator.ds.url=jdbc:mysql://127.0.0.1:3306/jorian_framework?useUnicode=true&characterEncoding=utf-8  
+x-generator.ds.url=jdbc:mysql://127.0.0.1:3306/xxxx_xx?useUnicode=true&characterEncoding=utf-8  
 x-generator.ds.username=root  
-x-generator.ds.password=root  
+x-generator.ds.password=xxxxx 
 
 ## 要生成的表名  
 x-generator.table.names=sys_user,sys_log  
